@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bower": "*",
+    "gulp": "*",
+    "gulp-react": "*",
+    "gulp-karma": "*",
+    "gulp-concat": "*",
+    "gulp-filter": "*",
+    "gulp-es6-module-transpiler": "*",
+    "jshint": "*",
+    "phantomjs": "*",
+    "karma": "*",
+    "karma-mocha": "*",
+    "karma-chai": "*",
+    "karma-chrome-launcher": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}

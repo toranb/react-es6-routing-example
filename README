@@ -1,0 +1,17 @@
+A react web app with nested routes and integration tests!
+
+
+To run the react app locally
+
+    npm install
+    gulp
+
+    python -m SimpleHTTPServer 3000
+
+    visit http://localhost:3000 to see the running app
+
+
+To run the react tests
+
+    npm install
+    gulp test

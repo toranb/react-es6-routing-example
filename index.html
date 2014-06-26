@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello React!</title>
+  </head>
+  <body>
+
+    <script src="dist/deps.min.js"></script>
+
+    <script src="bower_components/react/JSXTransformer.js"></script>
+    <script type="text/jsx">
+      /** @jsx React.DOM */
+      var router = require('example/router')['default'];
+      router.renderComponent(document.body);
+    </script>
+
+  </body>
+</html>
