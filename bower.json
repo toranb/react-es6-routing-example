@@ -4,7 +4,7 @@
   "dependencies": {
     "jquery": "1.9.1",
     "react": "0.10.0",
-    "ember-loader": "*",
-    "toranb-react-nested-router": "0.1.0"
+    "react-es6-loader": "*",
+    "react-nested-router": "0.2.0"
   }
 }

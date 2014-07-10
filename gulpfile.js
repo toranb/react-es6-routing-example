@@ -8,9 +8,9 @@ var transpiler = require('gulp-es6-module-transpiler');
 var paths = {
     deps: [
         "bower_components/jquery/jquery.min.js",
-        "bower_components/ember-loader/loader.js",
+        "bower_components/react-es6-loader/loader.js",
         "bower_components/react/react.js",
-        "bower_components/toranb-react-nested-router/main.js",
+        "bower_components/react-nested-router/main.js",
         "src/**/*.jsx"
     ],
     tests: [
