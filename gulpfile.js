@@ -9,8 +9,8 @@ var paths = {
     deps: [
         "bower_components/jquery/jquery.min.js",
         "bower_components/react-es6-loader/loader.js",
-        "bower_components/react/react.js",
-        "bower_components/react-nested-router/main.js",
+        "bower_components/react/react.min.js",
+        "bower_components/react-router/dist/react-router.min.js",
         "src/**/*.jsx"
     ],
     tests: [

@@ -15,10 +15,3 @@ To run the react tests
 
     npm install
     gulp test
-
-**after the update to react-nested-router 0.2.0**
-
-    Uncaught TypeError: Cannot read property 'firstChild' of undefined
-
-The app still seems to function just fine -just unsure of why this error
-started showing up only after the 0.2.0 upgrade
