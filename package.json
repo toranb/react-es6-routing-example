@@ -11,6 +11,7 @@
     "phantomjs": "*",
     "karma": "*",
     "karma-mocha": "*",
+    "mocha": "1.20.0",
     "karma-chai": "*",
     "karma-chrome-launcher": "*",
     "karma-phantomjs-launcher": "*"

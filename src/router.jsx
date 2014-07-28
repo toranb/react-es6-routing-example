@@ -4,7 +4,7 @@ import Session from 'example/session';
 var Route = ReactRouter.Route;
 var Routes = ReactRouter.Routes;
 
-var routes = (
+var Routes = (
   <Routes>
     <Route handler={App}>
       <Route name="session" path="/session/:sessionId" handler={Session}/>
@@ -12,4 +12,4 @@ var routes = (
   </Routes>
 )
 
-export default routes;
+export default Routes;
